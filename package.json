@@ -1,0 +1,11 @@
+{
+    "name": "mocha-protractor-test-suite",
+    "description": "Sri's POC for mocha (for BDD) and protractor (for UI) and Chai (for expectations)",
+    "authors": "Sri Suresh a.k.a autorani",
+    "version": "1.0.0",
+    "main": "pathToMain",
+    "dependencies": {
+        "protractor": "^5.1.2",
+        "mocha": "^3.5.0"
+    }
+}
